@@ -22,9 +22,9 @@ Then start a python interpreter and try:
 
 ## Install
 
-, it depends on
-* astropy
-* fitsio
+`atable` depends on:
+* astropy;
+* fitsio.
 
 Using `pip` you can install the depencies like:
 ```bash
