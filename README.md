@@ -1,4 +1,4 @@
-# atable
+# ATable
 
 A table handler for astronomical catalogs
 
@@ -22,7 +22,7 @@ Then start a python interpreter and try:
 
 ## Install
 
-`atable` depends on:
+`ATable` depends on:
 * astropy;
 * fitsio.
 
