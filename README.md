@@ -16,8 +16,8 @@ Add this directory to your `PYTHONPATH` environment variable,
 
 Then start a python interpreter and try:
 ```python
->>> from atable import ATable
->>> help(ATable)
+>>> import atable
+>>> help(atable)
 ```
 
 ## Install
