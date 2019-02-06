@@ -38,3 +38,7 @@ def info(filename):
     print(ft.info)
     return ft
 
+
+from ._version import get_versions
+__version__ = get_versions()['version']
+del get_versions

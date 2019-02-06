@@ -1,0 +1,2 @@
+include versioneer.py
+include atable/_version.py
