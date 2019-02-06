@@ -1,4 +1,4 @@
-# ATable
+# atable
 
 A table handler for astronomical catalogs
 
@@ -16,13 +16,13 @@ Add this directory to your `PYTHONPATH` environment variable,
 
 Then start a python interpreter and try:
 ```python
->>> from atable import ATable
->>> help(ATable)
+>>> import table
+>>> help(atable)
 ```
 
 ## Install
 
-`ATable` depends on:
+`atable` depends on:
 * astropy;
 * fitsio.
 
